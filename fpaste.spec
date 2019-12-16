@@ -1,5 +1,5 @@
 Name:           fpaste
-Version:        0.3.9.2
+Version:        0.4.0.1
 Release:        1
 Summary:        A simple tool for pasting info onto fpaste.org
 License:        GPLv3+
@@ -18,7 +18,7 @@ be unable to paste something into the pastebin.
 
 %prep
 %setup -q
-%apply_patches
+%autopatch -p1
 
 %build
 #nothing required
