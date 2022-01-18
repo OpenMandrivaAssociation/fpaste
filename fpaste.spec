@@ -1,6 +1,6 @@
 Name:           fpaste
-Version:        0.4.0.1
-Release:        1
+Version:	0.4.2.0
+Release:	1
 Summary:        A simple tool for pasting info onto fpaste.org
 License:        GPLv3+
 Group:          Text tools
